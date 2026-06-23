@@ -1,4 +1,3 @@
-# -security-writeups
 #  Security Writeups
 
 Hi, I'm Vamsi Kandukuru — a Cybersecurity graduate focused on **VAPT, web application penetration testing, and bug bounty hunting**.
